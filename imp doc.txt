@@ -1,0 +1,7 @@
+http://localhost:8080/user/create
+
+
+{"gcmRegistrationId":"esADtxEVwiU:APA91bFacDtOnEXFwe0I0PfPdt6WhtX7bqxnaCLMLQ0BI2V_vtdzxgtikc7fJCjCJCrVHt_Eu9iMZirGghJHY8evs97YyAqUhWF1rhV7GhjfiaVuFdx9V3oOHhnxSwRd2A9TEmih_RgC","name":"Hello Test notification","email":"Hello Test notification"}
+
+
+{"gcmRegistrationId":"esADtxEVwiU:APA91bFacDtOnEXFwe0I0PfPdt6WhtX7bqxnaCLMLQ0BI2V_vtdzxgtikc7fJCjCJCrVHt_Eu9iMZirGghJHY8evs97YyAqUhWF1rhV7GhjfiaVuFdx9V3oOHhnxSwRd2A9TEmih_RgC","name":"Himanshu Bramhvanshi","email":"him.bramhvanshi@gmail.com","mobile":"9860183620"}
