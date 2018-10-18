@@ -247,7 +247,7 @@ public class UserDao {
     // setup on DatabaseConfig class.
     @PersistenceContext
     private EntityManager entityManager;
-
+ 
 
     public boolean updateUserName(User user) {
         Query query = entityManager.createNativeQuery("UPDATE users SET name=:name WHERE user_id =:id");
